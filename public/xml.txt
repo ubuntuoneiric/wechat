@@ -1,0 +1,16 @@
+<xml><ToUserName><![CDATA[gh_af006c86434a]]></ToUserName>
+<FromUserName><![CDATA[on3Rq6LiNZaioiHwpkXGCIORT52g]]></FromUserName>
+<CreateTime>1565101421</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000030</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>5</TotalCount>
+<FilterCount>5</FilterCount>
+<SentCount>5</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
